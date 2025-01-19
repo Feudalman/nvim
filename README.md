@@ -1,6 +1,6 @@
 # arui-nvim-config
 
-nvim 相关配置
+针对 `unix` 系统的 nvim 配置，含有一些常用插件。
 
 > 可以参考
 > https://martinlwx.github.io/zh-cn/config-neovim-from-scratch/
